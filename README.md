@@ -6,6 +6,7 @@ Requires [.NET 8.0](https://dotnet.microsoft.com/download/dotnet/8.0)
 
 ## Usage:
 - Unpack in any folder and run
+- Extract hlm2_localization.bin from game's files via [HLMWADExplorer](https://github.com/TcT2k/HLMWadExplorer) 
 - Go to File > Open to open hlm2_localization.bin file
 - Double click or press F2 to edit text (You cannot edit String IDs!)
 - Go to File > Save/Save as... to save the file
