@@ -1,4 +1,4 @@
-namespace hlm2localization_editor
+namespace hlm2_localization_editor
 {
     internal static class Program
     {
